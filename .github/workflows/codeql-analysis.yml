@@ -14,11 +14,6 @@ on:
   schedule:
     - cron: '0 0 * * 2'
 
-
-permissions:
-  contents: read
-  security-events: write
-
 jobs:
   analyze:
     name: Analyze

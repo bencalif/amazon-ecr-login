@@ -1,3 +1,4 @@
+console.log("hello");
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
